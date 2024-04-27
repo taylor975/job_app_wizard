@@ -5,3 +5,5 @@
 *.docx
 # Checkpoints
 .ipynb_checkpoints/
+# Test notebooks
+test1.ipynb
